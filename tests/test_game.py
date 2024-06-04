@@ -49,7 +49,3 @@ class TestGame:
         result = game.is_valid(test_word)
         # verify
         assert result == False
-
-
-
-            #teardown
